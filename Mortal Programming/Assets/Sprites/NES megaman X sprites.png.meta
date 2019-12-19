@@ -1,0 +1,4171 @@
+fileFormatVersion: 2
+guid: a9e56e07210a64e4688d1da86aa0d499
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 815579544216485334
+    second: NES megaman X sprites_0
+  - first:
+      213: 256203806168692021
+    second: NES megaman X sprites_1
+  - first:
+      213: 4931520100551978031
+    second: NES megaman X sprites_2
+  - first:
+      213: 6216942139290205158
+    second: NES megaman X sprites_3
+  - first:
+      213: -5519268213141915624
+    second: NES megaman X sprites_4
+  - first:
+      213: 4398867828044407395
+    second: NES megaman X sprites_5
+  - first:
+      213: 7152529346103766934
+    second: NES megaman X sprites_6
+  - first:
+      213: -4078172439552935753
+    second: NES megaman X sprites_7
+  - first:
+      213: 1994079883145087976
+    second: NES megaman X sprites_8
+  - first:
+      213: -8368012020766104796
+    second: NES megaman X sprites_9
+  - first:
+      213: 4832994445899657228
+    second: NES megaman X sprites_10
+  - first:
+      213: -1632217251556309962
+    second: NES megaman X sprites_11
+  - first:
+      213: 288825439170881103
+    second: NES megaman X sprites_12
+  - first:
+      213: 7765637765623728254
+    second: NES megaman X sprites_13
+  - first:
+      213: 2244794597444705525
+    second: NES megaman X sprites_14
+  - first:
+      213: -6418672357464860216
+    second: NES megaman X sprites_15
+  - first:
+      213: -3792586910861485590
+    second: NES megaman X sprites_16
+  - first:
+      213: -3018692972265027323
+    second: NES megaman X sprites_17
+  - first:
+      213: -4189989637289285920
+    second: NES megaman X sprites_18
+  - first:
+      213: -4032597620255319688
+    second: NES megaman X sprites_19
+  - first:
+      213: 8599646259214758940
+    second: NES megaman X sprites_20
+  - first:
+      213: 7052083514239674165
+    second: NES megaman X sprites_21
+  - first:
+      213: -5806999767855510435
+    second: NES megaman X sprites_22
+  - first:
+      213: 5079695876983432925
+    second: NES megaman X sprites_23
+  - first:
+      213: -7353117251482155426
+    second: NES megaman X sprites_24
+  - first:
+      213: -6170840857062939009
+    second: NES megaman X sprites_25
+  - first:
+      213: -6175229701468756585
+    second: NES megaman X sprites_26
+  - first:
+      213: 1557321505264482319
+    second: NES megaman X sprites_27
+  - first:
+      213: -4862744576398539637
+    second: NES megaman X sprites_28
+  - first:
+      213: 8146427073779938876
+    second: NES megaman X sprites_29
+  - first:
+      213: -6309512192368628967
+    second: NES megaman X sprites_30
+  - first:
+      213: 7870091692284325510
+    second: NES megaman X sprites_31
+  - first:
+      213: 5559076842525401787
+    second: NES megaman X sprites_32
+  - first:
+      213: -3775569174453163946
+    second: NES megaman X sprites_33
+  - first:
+      213: -7393200457228370847
+    second: NES megaman X sprites_34
+  - first:
+      213: 247404781064360788
+    second: NES megaman X sprites_35
+  - first:
+      213: 8684607346426884918
+    second: NES megaman X sprites_36
+  - first:
+      213: -2815880170433323074
+    second: NES megaman X sprites_37
+  - first:
+      213: -825658086174613231
+    second: NES megaman X sprites_38
+  - first:
+      213: -2792068492224596391
+    second: NES megaman X sprites_39
+  - first:
+      213: 6967827925616800876
+    second: NES megaman X sprites_40
+  - first:
+      213: -101115363452592063
+    second: NES megaman X sprites_41
+  - first:
+      213: 2157045132632406571
+    second: NES megaman X sprites_42
+  - first:
+      213: -7766014005084118961
+    second: NES megaman X sprites_43
+  - first:
+      213: 6761719094361895614
+    second: NES megaman X sprites_44
+  - first:
+      213: 7256878973413200202
+    second: NES megaman X sprites_45
+  - first:
+      213: -8220697132711009007
+    second: NES megaman X sprites_46
+  - first:
+      213: 2718559702316978702
+    second: NES megaman X sprites_47
+  - first:
+      213: 5529698007023781902
+    second: NES megaman X sprites_48
+  - first:
+      213: 7832324049364404422
+    second: NES megaman X sprites_49
+  - first:
+      213: 1363345886120349053
+    second: NES megaman X sprites_50
+  - first:
+      213: -1762638086539968996
+    second: NES megaman X sprites_51
+  - first:
+      213: 2883356316016834685
+    second: NES megaman X sprites_52
+  - first:
+      213: 9192603846529671515
+    second: NES megaman X sprites_53
+  - first:
+      213: 6480249534249279193
+    second: NES megaman X sprites_54
+  - first:
+      213: -2497196399199083497
+    second: NES megaman X sprites_55
+  - first:
+      213: -6847567523262494805
+    second: NES megaman X sprites_56
+  - first:
+      213: 7726430215531731307
+    second: NES megaman X sprites_57
+  - first:
+      213: 1912772076857380686
+    second: NES megaman X sprites_58
+  - first:
+      213: -2835003680440607582
+    second: NES megaman X sprites_59
+  - first:
+      213: -3908470266294763474
+    second: NES megaman X sprites_60
+  - first:
+      213: 6476221466655845309
+    second: NES megaman X sprites_61
+  - first:
+      213: -4831336680996785757
+    second: NES megaman X sprites_62
+  - first:
+      213: -308619054477679184
+    second: NES megaman X sprites_63
+  - first:
+      213: -928082289476461976
+    second: NES megaman X sprites_64
+  - first:
+      213: -2360151011750290765
+    second: NES megaman X sprites_65
+  - first:
+      213: 7644133859573498957
+    second: NES megaman X sprites_66
+  - first:
+      213: -1859827137181831340
+    second: NES megaman X sprites_67
+  - first:
+      213: -2479586963457568096
+    second: NES megaman X sprites_68
+  - first:
+      213: 783487078716884989
+    second: NES megaman X sprites_69
+  - first:
+      213: -4248621284840127424
+    second: NES megaman X sprites_70
+  - first:
+      213: 6039449484228174186
+    second: NES megaman X sprites_71
+  - first:
+      213: -6379594099618257127
+    second: NES megaman X sprites_72
+  - first:
+      213: -4839375166877710436
+    second: NES megaman X sprites_73
+  - first:
+      213: -4176434438728075851
+    second: NES megaman X sprites_74
+  - first:
+      213: -5514185439513098600
+    second: NES megaman X sprites_75
+  - first:
+      213: -1543469478944277271
+    second: NES megaman X sprites_76
+  - first:
+      213: 3734624240913473680
+    second: NES megaman X sprites_77
+  - first:
+      213: -4256532268291231149
+    second: NES megaman X sprites_78
+  - first:
+      213: -110421647058921170
+    second: NES megaman X sprites_79
+  - first:
+      213: 2080925494401518413
+    second: NES megaman X sprites_80
+  - first:
+      213: -5342580568900612451
+    second: NES megaman X sprites_81
+  - first:
+      213: -682022332701726717
+    second: NES megaman X sprites_82
+  - first:
+      213: -8914906083146246220
+    second: NES megaman X sprites_83
+  - first:
+      213: -6419273796964576447
+    second: NES megaman X sprites_84
+  - first:
+      213: 582133579518720510
+    second: NES megaman X sprites_85
+  - first:
+      213: 8666609872537461396
+    second: NES megaman X sprites_86
+  - first:
+      213: -807073918415389710
+    second: NES megaman X sprites_87
+  - first:
+      213: -3077240853800445067
+    second: NES megaman X sprites_88
+  - first:
+      213: -4137067708578810570
+    second: NES megaman X sprites_89
+  - first:
+      213: 4539546954626726619
+    second: NES megaman X sprites_90
+  - first:
+      213: 2696422521149040056
+    second: NES megaman X sprites_91
+  - first:
+      213: 3744840774769254774
+    second: NES megaman X sprites_92
+  - first:
+      213: 9033958412268700884
+    second: NES megaman X sprites_93
+  - first:
+      213: 2641650923170919409
+    second: NES megaman X sprites_94
+  - first:
+      213: -5888201565425550357
+    second: NES megaman X sprites_95
+  - first:
+      213: -3655728938777760281
+    second: NES megaman X sprites_96
+  - first:
+      213: -6491768168443557575
+    second: NES megaman X sprites_97
+  - first:
+      213: -1941793695808108818
+    second: NES megaman X sprites_98
+  - first:
+      213: 6545106982991759837
+    second: NES megaman X sprites_99
+  - first:
+      213: 2615430587617147942
+    second: NES megaman X sprites_100
+  - first:
+      213: -6244612021083927746
+    second: NES megaman X sprites_101
+  - first:
+      213: -6594819321498628351
+    second: NES megaman X sprites_102
+  - first:
+      213: -2003584784605676669
+    second: NES megaman X sprites_103
+  - first:
+      213: -4746996120725406113
+    second: NES megaman X sprites_104
+  - first:
+      213: -7775298350719502392
+    second: NES megaman X sprites_105
+  - first:
+      213: -5083191582449802480
+    second: NES megaman X sprites_106
+  - first:
+      213: 6223917754596919784
+    second: NES megaman X sprites_107
+  - first:
+      213: 6807859927217776360
+    second: NES megaman X sprites_108
+  - first:
+      213: 4426358231914093289
+    second: NES megaman X sprites_109
+  - first:
+      213: -3763593931054184497
+    second: NES megaman X sprites_110
+  - first:
+      213: -7636285147493044990
+    second: NES megaman X sprites_111
+  - first:
+      213: -5280927800885256533
+    second: NES megaman X sprites_112
+  - first:
+      213: 1724031897636971186
+    second: NES megaman X sprites_113
+  - first:
+      213: 1736720179253058692
+    second: NES megaman X sprites_114
+  - first:
+      213: -3352868286729420641
+    second: NES megaman X sprites_115
+  - first:
+      213: -3012800097800342844
+    second: NES megaman X sprites_116
+  - first:
+      213: -5075426796164290669
+    second: NES megaman X sprites_117
+  - first:
+      213: -8472314205607276559
+    second: NES megaman X sprites_118
+  - first:
+      213: -8177486517207014141
+    second: NES megaman X sprites_119
+  - first:
+      213: 6604484284395104668
+    second: NES megaman X sprites_120
+  - first:
+      213: 3551169034149514274
+    second: NES megaman X sprites_121
+  - first:
+      213: 5134185232959530403
+    second: NES megaman X sprites_122
+  - first:
+      213: -2730816327384050692
+    second: NES megaman X sprites_123
+  - first:
+      213: -354158929892945514
+    second: NES megaman X sprites_124
+  - first:
+      213: 4181263405001148396
+    second: NES megaman X sprites_125
+  - first:
+      213: -3702715330151477540
+    second: NES megaman X sprites_126
+  - first:
+      213: 8710488082593670874
+    second: NES megaman X sprites_127
+  - first:
+      213: -4710848329568432329
+    second: NES megaman X sprites_128
+  - first:
+      213: 5286184809070672794
+    second: NES megaman X sprites_129
+  - first:
+      213: 1513074928550435893
+    second: NES megaman X sprites_130
+  - first:
+      213: -352524784841645453
+    second: NES megaman X sprites_131
+  - first:
+      213: 2155610826611307668
+    second: NES megaman X sprites_132
+  - first:
+      213: 5287175201402168818
+    second: NES megaman X sprites_133
+  - first:
+      213: 7838891086161662750
+    second: NES megaman X sprites_134
+  - first:
+      213: -1454942263010844824
+    second: NES megaman X sprites_135
+  - first:
+      213: -2384796783822855274
+    second: NES megaman X sprites_136
+  - first:
+      213: 132733032545004043
+    second: NES megaman X sprites_137
+  - first:
+      213: -3060097563712662223
+    second: NES megaman X sprites_138
+  - first:
+      213: 4386753660150242676
+    second: NES megaman X sprites_139
+  - first:
+      213: -4565994916602116566
+    second: NES megaman X sprites_140
+  - first:
+      213: 8903440182379521223
+    second: NES megaman X sprites_141
+  - first:
+      213: -4197827243308550446
+    second: NES megaman X sprites_142
+  - first:
+      213: -6422606739035219749
+    second: NES megaman X sprites_143
+  - first:
+      213: -103747949283655355
+    second: NES megaman X sprites_144
+  - first:
+      213: -534444417935133192
+    second: NES megaman X sprites_145
+  - first:
+      213: 5415764885299662784
+    second: NES megaman X sprites_146
+  - first:
+      213: -3124524634302206057
+    second: NES megaman X sprites_147
+  - first:
+      213: 7336513893509240437
+    second: NES megaman X sprites_148
+  - first:
+      213: 868586153039759742
+    second: NES megaman X sprites_149
+  - first:
+      213: -4284092642449892440
+    second: NES megaman X sprites_150
+  - first:
+      213: 1405330394000386874
+    second: NES megaman X sprites_151
+  - first:
+      213: 6088153626587460144
+    second: NES megaman X sprites_152
+  - first:
+      213: 1012013339697981027
+    second: NES megaman X sprites_153
+  - first:
+      213: 4761669920663607098
+    second: NES megaman X sprites_154
+  - first:
+      213: 1095448823031800110
+    second: NES megaman X sprites_155
+  - first:
+      213: -8839552456480763039
+    second: NES megaman X sprites_156
+  - first:
+      213: -4520448044641038726
+    second: NES megaman X sprites_157
+  - first:
+      213: 5916139634909870082
+    second: NES megaman X sprites_158
+  - first:
+      213: -240338521191513503
+    second: NES megaman X sprites_159
+  - first:
+      213: -264898989774535
+    second: NES megaman X sprites_160
+  - first:
+      213: -1947973558640506064
+    second: NES megaman X sprites_161
+  - first:
+      213: 7510208048199613740
+    second: NES megaman X sprites_162
+  - first:
+      213: -27917605499860068
+    second: NES megaman X sprites_163
+  - first:
+      213: 6006794094405239751
+    second: NES megaman X sprites_164
+  - first:
+      213: -6199682154625970847
+    second: NES megaman X sprites_165
+  - first:
+      213: 7994171785589314045
+    second: NES megaman X sprites_166
+  - first:
+      213: -8608845427369698071
+    second: NES megaman X sprites_167
+  - first:
+      213: -7021940303911676243
+    second: NES megaman X sprites_168
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES megaman X sprites_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 349
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c62616d479defb49910c67d2e674bd3
+      internalID: 815579544216485334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 348
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feacbf88859989b4cb064676c24bd65b
+      internalID: 256203806168692021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 348
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dac158230abb54aa762389588ded30
+      internalID: 4931520100551978031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 349
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9659d2df26f341b3c6ca0a762e131
+      internalID: 6216942139290205158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 350
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbe4be110ef70d4295ca314cab5ba17
+      internalID: -5519268213141915624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 350
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d58824af56b2409a944ca8a634213
+      internalID: 4398867828044407395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69536ac4fddc76646898acea17152277
+      internalID: 7152529346103766934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 350
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82551fe0636aa0542be0d6ac1265b634
+      internalID: -4078172439552935753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c55e78cbb63c438bbdc418785c761
+      internalID: 1994079883145087976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 314
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457bbc08d32066448936c5fd27d046e2
+      internalID: -8368012020766104796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 314
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a99cbeb3432fa4180d79a37c28d2db
+      internalID: 4832994445899657228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 314
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db91d304dc4573418463d05997f776f
+      internalID: -1632217251556309962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 314
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bdf4481dc4bd34aa36dbb26e5307c5
+      internalID: 288825439170881103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 315
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55bdbe82d60c5b4ea3ab905c0f2cee1
+      internalID: 7765637765623728254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 341
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b336f4d8ba6d744d8d41df5ca1f7e71
+      internalID: 2244794597444705525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7eec077411f44fa392a780dc2496f
+      internalID: -6418672357464860216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 314
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e4e91ad04ccb4ca166fd99593b5f8
+      internalID: -3792586910861485590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 314
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f45067b81305f4d9094befd6fee90f
+      internalID: -3018692972265027323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 314
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab93b14760632f4eb3c888092db28bb
+      internalID: -4189989637289285920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 314
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3c428418af7b49b3a21a5356bd1ab
+      internalID: -4032597620255319688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 314
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a3d3d86138ad4ca94280bcd784db9
+      internalID: 8599646259214758940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 314
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d7d9f34249e044abda55e976435f9e
+      internalID: 7052083514239674165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 317
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918bdcf63baa044b84090b86d8964d4
+      internalID: -5806999767855510435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 316
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ed637274e1384c9a6a990a55a3839
+      internalID: 5079695876983432925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 316
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9035081addb18489d8b59a4a995e71
+      internalID: -7353117251482155426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 335
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8f88407028cbb409f6c10d8d752895
+      internalID: -6170840857062939009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 322
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ebd0951763a974783c207d11b09519
+      internalID: -6175229701468756585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 322
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c72b7339cb5eb4b8d45085051fdd60
+      internalID: 1557321505264482319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 322
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c5d98f8f64d549b912d28f837588a
+      internalID: -4862744576398539637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 322
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb709d63d1e831f4fb026327f8a2dd54
+      internalID: 8146427073779938876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 286
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661831412f0f15e4081affdc4b38774e
+      internalID: -6309512192368628967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 286
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea816a870ae7147b5ce2bfb5317703
+      internalID: 7870091692284325510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 286
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87c67b7568e0548a090f9dbe5b8b9d
+      internalID: 5559076842525401787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 286
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5b74699756b245bf61c1eeafbd9fe
+      internalID: -3775569174453163946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 286
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c682aa78eea927644ad7d260242454e7
+      internalID: -7393200457228370847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 286
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55164a25f59948846b35c4e542a5e962
+      internalID: 247404781064360788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 283
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c273138174ba4664e816c4e999a13f17
+      internalID: 8684607346426884918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 280
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe7a67103a97840a8a2e5e180960cf
+      internalID: -2815880170433323074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f933495c0a653814db735093f0f4d9a7
+      internalID: -825658086174613231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4c78572b50a2408808384f8512549
+      internalID: -2792068492224596391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8e4f4b5580eb47955e449eead8c14
+      internalID: 6967827925616800876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 288
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6836b65240e7c940a643c089fb8e48d
+      internalID: -101115363452592063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92192709ff2a9f6409a14914fc115bc7
+      internalID: 2157045132632406571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 288
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0a16b62217cd42a5a66a1591ff3b5
+      internalID: -7766014005084118961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 288
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7cb19ab71ae274c931ad217ef92b23
+      internalID: 6761719094361895614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c7160ca93366646a5c71a2656949aa
+      internalID: 7256878973413200202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24f39cc25a099f40921224f92838902
+      internalID: -8220697132711009007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 288
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82dfb50633ed234b91941a40fdb53c7
+      internalID: 2718559702316978702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_48
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 288
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27522d95ecdeea14b8bb86197b6982a9
+      internalID: 5529698007023781902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 288
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5f96797adf2b4b9f83d90d8894028
+      internalID: 7832324049364404422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 260
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ee0ff93153b14cb5c3eafe371d731
+      internalID: 1363345886120349053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_51
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf437ee76c64cb4fa7109c78efbe149
+      internalID: -1762638086539968996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 241
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819dd58443f2ed48a7403d005dc6920
+      internalID: 2883356316016834685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0dad922e4a997448cd1b85e747999f
+      internalID: 9192603846529671515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54305adb9301fd408bf8719054f9f18
+      internalID: 6480249534249279193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 241
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d111d404663d4582b6e95804c2f5a
+      internalID: -2497196399199083497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 278
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b307e918e3944c89f4336865fb7e4
+      internalID: -6847567523262494805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 278
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b013c1d14362e4fac4dae4e1d7c041
+      internalID: 7726430215531731307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_58
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c8732508b0cc459e3546128c483d0
+      internalID: 1912772076857380686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33517be4390ce1b41956f6d1d09cefd0
+      internalID: -2835003680440607582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 185
+        width: 13
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065404ad330e32f48bea1e526dccd8fb
+      internalID: -3908470266294763474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 202
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d548ceffda6d894ba8be33c0ef882ef
+      internalID: 6476221466655845309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 202
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734925ebb2e02b4d98fe015df5cfc90
+      internalID: -4831336680996785757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d210c6e09ba30b4782f6a559b25fe85
+      internalID: -308619054477679184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 201
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228034f62f697a45aa67bada0d2d4fd
+      internalID: -928082289476461976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 201
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010616fea581a9141a1d5b66517c3497
+      internalID: -2360151011750290765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 201
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ffe78b13486c40b9b0839a98ee3f2
+      internalID: 7644133859573498957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 213
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cc05569ea6124418ba366ecbd8fff4
+      internalID: -1859827137181831340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_68
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 213
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31c03df8f678e4fb0a5e860171838d
+      internalID: -2479586963457568096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 201
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64213f1ff619174b8eb8c0489053168
+      internalID: 783487078716884989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_70
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 200
+        width: 12
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ba1474e5616d4481b043d31be278c
+      internalID: -4248621284840127424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_71
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 183
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dd81449b670c743a71e231c97e0238
+      internalID: 6039449484228174186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d6644f6db9be45bda12571b211418
+      internalID: -6379594099618257127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_73
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 179
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52453a6c08e5244694545abdfe9441e
+      internalID: -4839375166877710436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 178
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004132b807322f4da3da2ce1b9807bb
+      internalID: -4176434438728075851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 181
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed5c9d456c0a24fa0ac435b249c7c9
+      internalID: -5514185439513098600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_76
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 190
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebb319d5b70a74891d025be7d70523
+      internalID: -1543469478944277271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 181
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074bf2eee2ae0f4899986bd744cb471
+      internalID: 3734624240913473680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_78
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 185
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d910766c1d15419cf3a010b8ee907
+      internalID: -4256532268291231149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292eb7cdce9e2a649a985cd572f9bd52
+      internalID: -110421647058921170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_80
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb72d516db68db49ad38e4025792ac8
+      internalID: 2080925494401518413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 162
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34223d16ca39f445a6caca711f32797
+      internalID: -5342580568900612451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3176bc8147fb1794fa01c03da69bc07d
+      internalID: -682022332701726717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_83
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 164
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580201efce50074c8c1184a8f9ef32a
+      internalID: -8914906083146246220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_84
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adb690f8c5319a4f94e00110516873f
+      internalID: -6419273796964576447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def454db4f7bb04f85500429e4e7443
+      internalID: 582133579518720510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 156
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a72cc61a8123e40945ae61d64b2d45
+      internalID: 8666609872537461396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_87
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 155
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac74ef4d544f4844870a6742f5b77d2
+      internalID: -807073918415389710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_88
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 150
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af332d49c489c9f42a60a4d94cc23f87
+      internalID: -3077240853800445067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 159
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae471099ef4582d4aa42a77b5fc998ea
+      internalID: -4137067708578810570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_90
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 150
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4583c4571ccc94eb38b17f759e4f20
+      internalID: 4539546954626726619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c1e2fc0b294064c8aa2f64b6c78ae4
+      internalID: 2696422521149040056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_92
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d54b30d80320a49b6767f17c8c786c
+      internalID: 3744840774769254774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 125
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0bdf80089705f4cbd2453fdacad1b8
+      internalID: 9033958412268700884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_94
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 119
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdabee2f14660834ba837ce9bfdb360a
+      internalID: 2641650923170919409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 118
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a9c48becb51904496f4db1cddc7961
+      internalID: -5888201565425550357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472bb159dbecff489ac5adec432a963
+      internalID: -3655728938777760281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 127
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75d1c73246c034d8ad177c8e3e8fa1
+      internalID: -6491768168443557575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_98
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 127
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49424eadc0be25142b85b2f9fb807b6d
+      internalID: -1941793695808108818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 131
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bc1e81a5c31fd4aadcc2cf4678fe70
+      internalID: 6545106982991759837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_100
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 117
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fef1b79c4354149aa237458e27fd72
+      internalID: 2615430587617147942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_101
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 117
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680f1cda3f975f4ca43282069848973
+      internalID: -6244612021083927746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 82
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ebc798864210498958246d9f1f975
+      internalID: -6594819321498628351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_103
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ed449e7fcae04398755550e9055c8
+      internalID: -2003584784605676669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_104
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16533fc18ae63ff4a8acc5649511684a
+      internalID: -4746996120725406113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 82
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e067b707d1354da4c49f1e813a56e
+      internalID: -7775298350719502392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 110
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d9568f4429bf4c8be6b7ed240d950
+      internalID: -5083191582449802480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_107
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 82
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ce645221f8574cb8dee7c0b2947f6
+      internalID: 6223917754596919784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_108
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 110
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b26205950b4c439e37742989caa99
+      internalID: 6807859927217776360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_109
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 82
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee591deff7d337419b320619999d2cd
+      internalID: 4426358231914093289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_110
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 82
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d121def744ee43b2011189fec71c4
+      internalID: -3763593931054184497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 82
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f79987fc10e4bb4895cf8b6d68d2a04
+      internalID: -7636285147493044990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_112
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 82
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6a1cf77d05564a978c309884aba27
+      internalID: -5280927800885256533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_113
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 82
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b373ca02232a6647b983c33ca73c8d7
+      internalID: 1724031897636971186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_114
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 110
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63eccba92f15e40be0ba4902df0e0a
+      internalID: 1736720179253058692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_115
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 82
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1541c75062fe49b4aa5637b908aba1c0
+      internalID: -3352868286729420641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_116
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 82
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0fa8567506b748be946ac3dce481e
+      internalID: -3012800097800342844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756e7a6157672f46bda55ad770a0b5b
+      internalID: -5075426796164290669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 82
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e29ec94d6ce81499a923a7d89323ca
+      internalID: -8472314205607276559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 82
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d7b66951541345b79c6773f815959
+      internalID: -8177486517207014141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 82
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3c8f5eb4a15364ba9bafe4d6272bbe
+      internalID: 6604484284395104668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26931537a044319489d9e5600c65653a
+      internalID: 3551169034149514274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_122
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d243bd05feac54b81d9f6f930a89c0
+      internalID: 5134185232959530403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_123
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283cde149893604a891920e9959f27c
+      internalID: -2730816327384050692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_124
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8565b54c0412499565d9b3566a16d
+      internalID: -354158929892945514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_125
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b4fff1f0d0bd4ab05ba0a0da0b14d
+      internalID: 4181263405001148396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_126
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8496aeee201250489acaeb55e7554c4
+      internalID: -3702715330151477540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_127
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5bdf1608fa51544841340fa024b868
+      internalID: 8710488082593670874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d298be114f9d854da8692ab764cb55b
+      internalID: -4710848329568432329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_129
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e66c5f6cea0cfa4eacf0b0b96713a45
+      internalID: 5286184809070672794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455cbb4c1feb564bb6780289c078a3d
+      internalID: 1513074928550435893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_131
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73956f85d26b1a944b41fbfd773d1d76
+      internalID: -352524784841645453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_132
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf4ce860cedeb43af13b5b7ccc161c
+      internalID: 2155610826611307668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_133
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7a4c5d60bdaf44976735714a41545
+      internalID: 5287175201402168818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_134
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0b7485fcfdea44bc58102978306b7
+      internalID: 7838891086161662750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_135
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc76b0cf5c094443bb48c1dba874b2e
+      internalID: -1454942263010844824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_136
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551699781124ece408fa0fdc0d3fe3ad
+      internalID: -2384796783822855274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45881aae622ef041a60eb7a4054c41e
+      internalID: 132733032545004043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_138
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038caf8ca205f2048982b6c6e54be20d
+      internalID: -3060097563712662223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_139
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2449864bb1216a4e86f99dac1455045
+      internalID: 4386753660150242676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_140
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071cbb8f4e40574287f67023994ed0a
+      internalID: -4565994916602116566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_141
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bc403ba8740514b855aa06473c5fa4
+      internalID: 8903440182379521223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_142
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8906470b8ba224f8d7e276d1727b34
+      internalID: -4197827243308550446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_143
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe4abc70f741c4cac80b8db98ad283
+      internalID: -6422606739035219749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_144
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb804d623bbaa24192b7297281975c7
+      internalID: -103747949283655355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_145
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6630772b1a386244ba9a6f83d7d8324
+      internalID: -534444417935133192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_146
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca278be40c58d54d8e8293ba581342c
+      internalID: 5415764885299662784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_147
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2835cfa8456eb740b4cfcf571ee1547
+      internalID: -3124524634302206057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_148
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f6e513b24ab4b4d9edd1d2f7fb885f
+      internalID: 7336513893509240437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_149
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58521af6ecca1c4187a4be0c0f37f85
+      internalID: 868586153039759742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_150
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057970c919a043b43a3fd1bd28925b71
+      internalID: -4284092642449892440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_151
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517248ad68611f74b8b7fb77432b1af3
+      internalID: 1405330394000386874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_152
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 28
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad869c2f2d0eea49b93c83ed6231abc
+      internalID: 6088153626587460144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0862e4e838e2524d96691de2fb60840
+      internalID: 1012013339697981027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_154
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92673f280f2a8d43927ed038e581e37
+      internalID: 4761669920663607098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da1a32537c8984cbbee138a42eac93
+      internalID: 1095448823031800110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_156
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce731e56340494bb406eb82d4eecd5
+      internalID: -8839552456480763039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_157
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea187232d2ed366429a8bbd1de5e2d54
+      internalID: -4520448044641038726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_158
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760bf0ab26bf0ce4bbe5999f21a77b07
+      internalID: 5916139634909870082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_159
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaed3952c8821a49987f53c9814d2b8
+      internalID: -240338521191513503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_160
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ddb0f6b87e4da4d8d14ba7d26c65c0
+      internalID: -264898989774535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_161
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3909b236e873814797c9588768f498c
+      internalID: -1947973558640506064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_162
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc0c1fafd070149a8197f63242a636
+      internalID: 7510208048199613740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_163
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39112fb657bace349b99488fbad6e865
+      internalID: -27917605499860068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_164
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e9df3d464dda478cb98166892fa30
+      internalID: 6006794094405239751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_165
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ded29c1e76314db6f6b1d9a050776
+      internalID: -6199682154625970847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_166
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376375dfa471e7d4a9cc2eb04e84c400
+      internalID: 7994171785589314045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_167
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1310bef513e8d4fa2a6e5defb5a427
+      internalID: -8608845427369698071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES megaman X sprites_168
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55d56a621d804942b830e913d82ac6a
+      internalID: -7021940303911676243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

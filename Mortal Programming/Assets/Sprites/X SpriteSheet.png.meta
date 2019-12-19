@@ -1,0 +1,4219 @@
+fileFormatVersion: 2
+guid: 539e74ae5e9dcbc4080c71696c8681d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5791371992463377337
+    second: X SpriteSheet_0
+  - first:
+      213: -6752204472073232211
+    second: X SpriteSheet_1
+  - first:
+      213: 1613600597618637614
+    second: X SpriteSheet_2
+  - first:
+      213: -125183832111921754
+    second: X SpriteSheet_3
+  - first:
+      213: 121330513178138836
+    second: X SpriteSheet_4
+  - first:
+      213: 7596735295287293137
+    second: X SpriteSheet_5
+  - first:
+      213: 1947624957340275466
+    second: X SpriteSheet_6
+  - first:
+      213: 1608719374300618849
+    second: X SpriteSheet_7
+  - first:
+      213: -1329720648693588480
+    second: X SpriteSheet_8
+  - first:
+      213: -8972888155422683613
+    second: X SpriteSheet_9
+  - first:
+      213: -6129658985780956439
+    second: X SpriteSheet_10
+  - first:
+      213: 7938036306062987542
+    second: X SpriteSheet_11
+  - first:
+      213: -4398481624137949029
+    second: X SpriteSheet_12
+  - first:
+      213: 4545346401133494460
+    second: X SpriteSheet_13
+  - first:
+      213: -2652935861202709207
+    second: X SpriteSheet_14
+  - first:
+      213: 730931728185611702
+    second: X SpriteSheet_15
+  - first:
+      213: 2096448352170556581
+    second: X SpriteSheet_16
+  - first:
+      213: -5482952841559504592
+    second: X SpriteSheet_17
+  - first:
+      213: -6769949050688783765
+    second: X SpriteSheet_18
+  - first:
+      213: -4141601895657179992
+    second: X SpriteSheet_19
+  - first:
+      213: 1853367152825970072
+    second: X SpriteSheet_20
+  - first:
+      213: -5912183850133106280
+    second: X SpriteSheet_21
+  - first:
+      213: 2026506256834213214
+    second: X SpriteSheet_22
+  - first:
+      213: -6214710963328027986
+    second: X SpriteSheet_23
+  - first:
+      213: 4001573124580879885
+    second: X SpriteSheet_24
+  - first:
+      213: 335550371967202743
+    second: X SpriteSheet_25
+  - first:
+      213: 2536936626209167152
+    second: X SpriteSheet_26
+  - first:
+      213: 1663109844109436370
+    second: X SpriteSheet_27
+  - first:
+      213: 8889599407218461119
+    second: X SpriteSheet_28
+  - first:
+      213: -3033497500414543578
+    second: X SpriteSheet_29
+  - first:
+      213: 671637528319378295
+    second: X SpriteSheet_30
+  - first:
+      213: -5840345234279841279
+    second: X SpriteSheet_31
+  - first:
+      213: 13771290565656859
+    second: X SpriteSheet_32
+  - first:
+      213: 8181725765078670845
+    second: X SpriteSheet_33
+  - first:
+      213: -5249261669297382235
+    second: X SpriteSheet_34
+  - first:
+      213: -1133419379837796750
+    second: X SpriteSheet_35
+  - first:
+      213: 8583592537257969100
+    second: X SpriteSheet_36
+  - first:
+      213: -7554452997640243985
+    second: X SpriteSheet_37
+  - first:
+      213: 8469145253806831197
+    second: X SpriteSheet_38
+  - first:
+      213: -4917588799964100758
+    second: X SpriteSheet_39
+  - first:
+      213: 4397029859872744177
+    second: X SpriteSheet_40
+  - first:
+      213: 5278708843226704289
+    second: X SpriteSheet_41
+  - first:
+      213: -3035641226724790042
+    second: X SpriteSheet_42
+  - first:
+      213: -4894131271068367179
+    second: X SpriteSheet_43
+  - first:
+      213: -1381859768460794770
+    second: X SpriteSheet_44
+  - first:
+      213: -6661258546267751642
+    second: X SpriteSheet_45
+  - first:
+      213: -2899299874969974541
+    second: X SpriteSheet_46
+  - first:
+      213: 7813608325871296449
+    second: X SpriteSheet_47
+  - first:
+      213: -1102612716853000445
+    second: X SpriteSheet_48
+  - first:
+      213: 247205956708812137
+    second: X SpriteSheet_49
+  - first:
+      213: 7961172556257815451
+    second: X SpriteSheet_50
+  - first:
+      213: 5703275381971125838
+    second: X SpriteSheet_51
+  - first:
+      213: -5762904210814059957
+    second: X SpriteSheet_52
+  - first:
+      213: 6642648850777724167
+    second: X SpriteSheet_53
+  - first:
+      213: 2512642492786940055
+    second: X SpriteSheet_54
+  - first:
+      213: 52406357140944228
+    second: X SpriteSheet_55
+  - first:
+      213: -1985536477116130618
+    second: X SpriteSheet_56
+  - first:
+      213: -3196302716647427695
+    second: X SpriteSheet_57
+  - first:
+      213: -4537959419619415111
+    second: X SpriteSheet_58
+  - first:
+      213: -2941140340617833816
+    second: X SpriteSheet_59
+  - first:
+      213: -6428296748913492994
+    second: X SpriteSheet_60
+  - first:
+      213: 1278365062310825020
+    second: X SpriteSheet_61
+  - first:
+      213: 6406328101002386599
+    second: X SpriteSheet_62
+  - first:
+      213: 1505594824634986267
+    second: X SpriteSheet_63
+  - first:
+      213: -7764616057553506572
+    second: X SpriteSheet_64
+  - first:
+      213: 504435116426816808
+    second: X SpriteSheet_65
+  - first:
+      213: -8061888668771270582
+    second: X SpriteSheet_66
+  - first:
+      213: 5536747637617340008
+    second: X SpriteSheet_67
+  - first:
+      213: -7478480990678899167
+    second: X SpriteSheet_68
+  - first:
+      213: 1949941173214346440
+    second: X SpriteSheet_69
+  - first:
+      213: 1690452647249262667
+    second: X SpriteSheet_70
+  - first:
+      213: 829540032878960389
+    second: X SpriteSheet_71
+  - first:
+      213: 9109615101336038589
+    second: X SpriteSheet_72
+  - first:
+      213: -4981048389641552337
+    second: X SpriteSheet_73
+  - first:
+      213: 5766323320163235329
+    second: X SpriteSheet_74
+  - first:
+      213: 4328942529991759710
+    second: X SpriteSheet_75
+  - first:
+      213: -5448112000846497041
+    second: X SpriteSheet_76
+  - first:
+      213: -7453435733993569204
+    second: X SpriteSheet_77
+  - first:
+      213: -6733273232710720739
+    second: X SpriteSheet_78
+  - first:
+      213: -5453116590488339408
+    second: X SpriteSheet_79
+  - first:
+      213: 240280364966070271
+    second: X SpriteSheet_80
+  - first:
+      213: 2251864444096748520
+    second: X SpriteSheet_81
+  - first:
+      213: 7038211404683631517
+    second: X SpriteSheet_82
+  - first:
+      213: 4965477173897066726
+    second: X SpriteSheet_83
+  - first:
+      213: 2530614610284775474
+    second: X SpriteSheet_84
+  - first:
+      213: 4522729309115520022
+    second: X SpriteSheet_85
+  - first:
+      213: 6388270178438955179
+    second: X SpriteSheet_86
+  - first:
+      213: -7280319059811209095
+    second: X SpriteSheet_87
+  - first:
+      213: -8299858433937445948
+    second: X SpriteSheet_88
+  - first:
+      213: 5846363697588845867
+    second: X SpriteSheet_89
+  - first:
+      213: 7233528827025916408
+    second: X SpriteSheet_90
+  - first:
+      213: -866188683580834226
+    second: X SpriteSheet_91
+  - first:
+      213: -1339630501635381491
+    second: X SpriteSheet_92
+  - first:
+      213: -2695877392645641158
+    second: X SpriteSheet_93
+  - first:
+      213: 6273040109889548344
+    second: X SpriteSheet_94
+  - first:
+      213: 2461307632584022346
+    second: X SpriteSheet_95
+  - first:
+      213: -2013858303960375170
+    second: X SpriteSheet_96
+  - first:
+      213: -6988425191983572535
+    second: X SpriteSheet_97
+  - first:
+      213: -4452082283323329330
+    second: X SpriteSheet_98
+  - first:
+      213: 610819371093588516
+    second: X SpriteSheet_99
+  - first:
+      213: 4504437618199068151
+    second: X SpriteSheet_100
+  - first:
+      213: -7077211234725866227
+    second: X SpriteSheet_101
+  - first:
+      213: 1450346740283647264
+    second: X SpriteSheet_102
+  - first:
+      213: 4495031133649952365
+    second: X SpriteSheet_103
+  - first:
+      213: -4386776291444001943
+    second: X SpriteSheet_104
+  - first:
+      213: 3113235896265893157
+    second: X SpriteSheet_105
+  - first:
+      213: 1861309072853506153
+    second: X SpriteSheet_106
+  - first:
+      213: -1230246412755387898
+    second: X SpriteSheet_107
+  - first:
+      213: 4374236832504112299
+    second: X SpriteSheet_108
+  - first:
+      213: 504928214065637958
+    second: X SpriteSheet_109
+  - first:
+      213: -2872577753632364030
+    second: X SpriteSheet_110
+  - first:
+      213: -4252391216888051750
+    second: X SpriteSheet_111
+  - first:
+      213: -940037904094889415
+    second: X SpriteSheet_112
+  - first:
+      213: -9052241612557285905
+    second: X SpriteSheet_113
+  - first:
+      213: 4543284934581797748
+    second: X SpriteSheet_114
+  - first:
+      213: -7328582109847266621
+    second: X SpriteSheet_115
+  - first:
+      213: -1558297258064747633
+    second: X SpriteSheet_116
+  - first:
+      213: 514170982631175379
+    second: X SpriteSheet_117
+  - first:
+      213: -4553703450846305970
+    second: X SpriteSheet_118
+  - first:
+      213: 8952857193608713828
+    second: X SpriteSheet_119
+  - first:
+      213: 2604108433935569230
+    second: X SpriteSheet_120
+  - first:
+      213: 4404599614670360977
+    second: X SpriteSheet_121
+  - first:
+      213: 7655896094854319453
+    second: X SpriteSheet_122
+  - first:
+      213: -7509075319101255291
+    second: X SpriteSheet_123
+  - first:
+      213: -969697537769423184
+    second: X SpriteSheet_124
+  - first:
+      213: 2120034186647039201
+    second: X SpriteSheet_125
+  - first:
+      213: 5138298769499567229
+    second: X SpriteSheet_126
+  - first:
+      213: -7060291871289762926
+    second: X SpriteSheet_127
+  - first:
+      213: 4591295941962970279
+    second: X SpriteSheet_128
+  - first:
+      213: -2226089865481352080
+    second: X SpriteSheet_129
+  - first:
+      213: 1851348542643505034
+    second: X SpriteSheet_130
+  - first:
+      213: -8579850760332185963
+    second: X SpriteSheet_131
+  - first:
+      213: -7700979996508567286
+    second: X SpriteSheet_132
+  - first:
+      213: 960713803510304839
+    second: X SpriteSheet_133
+  - first:
+      213: -7447649266665257202
+    second: X SpriteSheet_134
+  - first:
+      213: 4765153854776773723
+    second: X SpriteSheet_135
+  - first:
+      213: -3333033017336648389
+    second: X SpriteSheet_136
+  - first:
+      213: 4007465795179293529
+    second: X SpriteSheet_137
+  - first:
+      213: 8370276686439319551
+    second: X SpriteSheet_138
+  - first:
+      213: -4143272988891405989
+    second: X SpriteSheet_139
+  - first:
+      213: 4636715127080768845
+    second: X SpriteSheet_140
+  - first:
+      213: 4988194771629217048
+    second: X SpriteSheet_141
+  - first:
+      213: 7255171724058156650
+    second: X SpriteSheet_142
+  - first:
+      213: 6895591920055538672
+    second: X SpriteSheet_143
+  - first:
+      213: 8146328082955526877
+    second: X SpriteSheet_144
+  - first:
+      213: -4916020941096629654
+    second: X SpriteSheet_145
+  - first:
+      213: 1324417669724256071
+    second: X SpriteSheet_146
+  - first:
+      213: -4239744467484829800
+    second: X SpriteSheet_147
+  - first:
+      213: 7821309279136587980
+    second: X SpriteSheet_148
+  - first:
+      213: 5419028277844803529
+    second: X SpriteSheet_149
+  - first:
+      213: -3030654382760305199
+    second: X SpriteSheet_150
+  - first:
+      213: 7210056417045780569
+    second: X SpriteSheet_151
+  - first:
+      213: 1556863878407283304
+    second: X SpriteSheet_152
+  - first:
+      213: 3380062932898570513
+    second: X SpriteSheet_153
+  - first:
+      213: -5470438671697399082
+    second: X SpriteSheet_154
+  - first:
+      213: 3410984914621870326
+    second: X SpriteSheet_155
+  - first:
+      213: -6447829122727603552
+    second: X SpriteSheet_156
+  - first:
+      213: 5555155030053578319
+    second: X SpriteSheet_157
+  - first:
+      213: -5770524589562387143
+    second: X SpriteSheet_158
+  - first:
+      213: 1118939106159621110
+    second: X SpriteSheet_159
+  - first:
+      213: -1878964268744704567
+    second: X SpriteSheet_160
+  - first:
+      213: -6605517866231437590
+    second: X SpriteSheet_161
+  - first:
+      213: 4668332996002418895
+    second: X SpriteSheet_162
+  - first:
+      213: -3438709192565215384
+    second: X SpriteSheet_163
+  - first:
+      213: 444040650902895605
+    second: X SpriteSheet_164
+  - first:
+      213: -429055211115253743
+    second: X SpriteSheet_165
+  - first:
+      213: 4412647285717568061
+    second: X SpriteSheet_166
+  - first:
+      213: 9102327334473900178
+    second: X SpriteSheet_167
+  - first:
+      213: 4612189282863361387
+    second: X SpriteSheet_168
+  - first:
+      213: 6034474023743311666
+    second: X SpriteSheet_169
+  - first:
+      213: -585412866587066005
+    second: X SpriteSheet_170
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: X SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 879
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16263bf364725428ffb9ff42018394
+      internalID: 5791371992463377337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 879
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e9bc0fc75a9b468e2fe19652d455c
+      internalID: -6752204472073232211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 879
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcbaeb9ace41cb4b9529bec20de70e1
+      internalID: 1613600597618637614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 879
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f804b1e7c62b47b9a1fca47b6d1ba
+      internalID: -125183832111921754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 879
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426877f77067dd469accdf9d89becf7
+      internalID: 121330513178138836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce80c9e1e64e604ab3878f52747fa02
+      internalID: 7596735295287293137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 879
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8fe6241539b04bafea512033019f8
+      internalID: 1947624957340275466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa14c7f6455916469367615fed61b13
+      internalID: 1608719374300618849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a63e4176378b49aff2b72edc9fe56
+      internalID: -1329720648693588480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4733a9ea51eb9e49aacac1d820de602
+      internalID: -8972888155422683613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 830
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc373479841a034597ddc52ade67b79
+      internalID: -6129658985780956439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 830
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff99b943d21f24d4eabeae23e7add5be
+      internalID: 7938036306062987542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 830
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ab1bae11a44f439a3cdb79ea7af06
+      internalID: -4398481624137949029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 830
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7e7a2e528f9f45a34d396326dc175
+      internalID: 4545346401133494460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 830
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c645f46f2a002345a1ab8e3d3291f57
+      internalID: -2652935861202709207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 830
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e20071df7d3a42adeb7fedf031af8
+      internalID: 730931728185611702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 830
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7977980d4aa61ef4eac9c08727a233e3
+      internalID: 2096448352170556581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 830
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7d4d71aebf554f8822ff393e8bb6b
+      internalID: -5482952841559504592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 830
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637f3b159195a9428fcbc5b576a1165
+      internalID: -6769949050688783765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 789
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39d108d68c1df4588b276b814c6afd
+      internalID: -4141601895657179992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 789
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58548d4177ab043930b0750b95e799
+      internalID: 1853367152825970072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 789
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c7da6f9425464a995148efdc1e9ea
+      internalID: -5912183850133106280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 789
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcdbf161592cfb4badf500beac67202
+      internalID: 2026506256834213214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 789
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399457a2814f0a741aea4deace29610d
+      internalID: -6214710963328027986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 789
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce852f925ce4da40a2deb3f9568175c
+      internalID: 4001573124580879885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 789
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5ae7106af18d46b5dc3fe7d0497df
+      internalID: 335550371967202743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 789
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73216efc2fe135647aa7035e1bbfb19d
+      internalID: 2536936626209167152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 789
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24515538124322409b92b716471a001
+      internalID: 1663109844109436370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 789
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bd62552d85d54fa357a78073492f5
+      internalID: 8889599407218461119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 789
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b461b66c490940bd5918f88a2c36a
+      internalID: -3033497500414543578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 741
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c071f1143331f4e928a7a60678ca82
+      internalID: 671637528319378295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 741
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7f1ccafc841441a8d50a951a85582
+      internalID: -5840345234279841279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 741
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59448030821e1ce41ac3228edefea5e3
+      internalID: 13771290565656859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 741
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915accdd35190554394ef487fb41d1d4
+      internalID: 8181725765078670845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 741
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b367042df5dc42b911aab8bf9b615
+      internalID: -5249261669297382235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 741
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75dfb58977d04418a4ac255338c7c5
+      internalID: -1133419379837796750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 741
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f04c205eeac14da4a2a8a60b96773
+      internalID: 8583592537257969100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 741
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85131d174d447ee40870d5eabf151983
+      internalID: -7554452997640243985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 741
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab630937460c854aadecca721806771
+      internalID: 8469145253806831197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 741
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692d2d37f5085a4eb7538245a071f14
+      internalID: -4917588799964100758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 741
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a98cd744a6aa4fb15657d0cdad604
+      internalID: 4397029859872744177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 704
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be879690d60424945a03a2e4d2451595
+      internalID: 5278708843226704289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 703
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc0de4aee94ab64d942834ae661a845
+      internalID: -3035641226724790042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 703
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3eb66265afa94f9eb479fdab769d8
+      internalID: -4894131271068367179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33a8820f7800d47958e06fa881a864
+      internalID: -1381859768460794770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 703
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c235393df1c614489f035020cd0f2d
+      internalID: -6661258546267751642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 703
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da098d0916757940bdab0664998b644
+      internalID: -2899299874969974541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 703
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4bd5fd9269e674ca89391300c41b32
+      internalID: 7813608325871296449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 703
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962f4e62e4b0ed47b05cbab15c4e42f
+      internalID: -1102612716853000445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 703
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3d53c3722a1441981c11e4a16fd59
+      internalID: 247205956708812137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 703
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d874120dd2c276540b76f84b6f942182
+      internalID: 7961172556257815451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 703
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca258d2949b2af4c88dc4120eed9dd1
+      internalID: 5703275381971125838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 661
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c93cedda91664c98f176e7a29c355
+      internalID: -5762904210814059957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 661
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667ed0f34ca7774299d7c245d50ab0b
+      internalID: 6642648850777724167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 661
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0f2e06de5de0c4d9f8ae17f4c5aa3b
+      internalID: 2512642492786940055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 661
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7c2e38e9c9d0449b59585f7ba8155
+      internalID: 52406357140944228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 660
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd200a6b094c504996a3d576034ff60
+      internalID: -1985536477116130618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 660
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a03d3e90cddf49bbfd6412fe622dc
+      internalID: -3196302716647427695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 660
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b534438226f894eb0d01c4549e1f81
+      internalID: -4537959419619415111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 661
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657047f3f9ee4f4dbc96a44d4a46261
+      internalID: -2941140340617833816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 661
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607014821f9d3274e9bd57f7c423c065
+      internalID: -6428296748913492994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 607
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f39e19cbd09441a3bdb19ef971482
+      internalID: 1278365062310825020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 607
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688e60a1ecb9cc4ab55a34278b74985
+      internalID: 6406328101002386599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 606
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c05c8f185f8304db00afe39c4482c5
+      internalID: 1505594824634986267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 606
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e00264202ac7a84699ecae3670b829f
+      internalID: -7764616057553506572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 609
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290c5adb04e28f4ab78f3ecfead4b8e
+      internalID: 504435116426816808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 609
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f34154cf91f0b40a6a444255001bf4
+      internalID: -8061888668771270582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 609
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739306bd9207d3a4eadf67c8ff6adc7f
+      internalID: 5536747637617340008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 535
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606f8824b3dde84abc5c19d59cc46f9
+      internalID: -7478480990678899167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 534
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cace63318da9c844a5ae86cb82eec7e
+      internalID: 1949941173214346440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 534
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52205b7ba3c3e4092bcd07ab766686
+      internalID: 1690452647249262667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 534
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9630d2e624cf85645b15db370699f5cc
+      internalID: 829540032878960389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 534
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad4c53ceb072724183207dd0b9b76f5
+      internalID: 9109615101336038589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 534
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dacc6e09ce9854fb1fcb85dc3927a7
+      internalID: -4981048389641552337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 534
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546aefd0c5cd11e49aaf5cf7a4c0a2c5
+      internalID: 5766323320163235329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 534
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b1081467ccbe4a8b398754d314c8d
+      internalID: 4328942529991759710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf002368fbfb974780ea0871cfcf236
+      internalID: -5448112000846497041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a07b5e7bbd5ed4989806c30c071a21
+      internalID: -7453435733993569204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 534
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12478913e16ba4844b289b1b4601a392
+      internalID: -6733273232710720739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 468
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544bbfbc9fec0664b9c515a60d5f08c8
+      internalID: -5453116590488339408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 473
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05da8b798d23a664da01b1ef76e81672
+      internalID: 240280364966070271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 469
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5041518bd4f94e4c9fb73c8537c8cbc
+      internalID: 2251864444096748520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 467
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2daa01040a66734ea40fd392c0279eb
+      internalID: 7038211404683631517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 458
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edf00417be73fb41b6018db6fc11007
+      internalID: 4965477173897066726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 467
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865728af60ffc84ea8b1c3c60169b5e
+      internalID: 2530614610284775474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 463
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a738bf9d7a79f459dbc45f484ed38b
+      internalID: 4522729309115520022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 460
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26175a0c4b9d55479f4ca9bfe9f995e
+      internalID: 6388270178438955179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 461
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfacb8cd60cf004dbb5fd3f2f63079f
+      internalID: -7280319059811209095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d16985e5c5c643b6e02bf90eb14c9
+      internalID: -8299858433937445948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 461
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e906887277b48548af91a985413deb9
+      internalID: 5846363697588845867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 459
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a5e689e59639a4882691fdf98d9bf9
+      internalID: 7233528827025916408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 416
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb82ac6cca43b7498ab9b6d333c7960
+      internalID: -866188683580834226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 416
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7dff2a35e27e447863a7025479a8e5
+      internalID: -1339630501635381491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 416
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1350400e536d648a5ad66031d3c850
+      internalID: -2695877392645641158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 416
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec371bf560a3844a77907b5f607139
+      internalID: 6273040109889548344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 416
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f910d3ccc5749478fc4b67d8333abc
+      internalID: 2461307632584022346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 416
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d2d1bd04ba9a419d8acc29254e87a
+      internalID: -2013858303960375170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 361
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a949db6cdfcff4d9282a5ec513afb0
+      internalID: -6988425191983572535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 361
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18cbbbc7a8e0584c8cb2b3413d53ccc
+      internalID: -4452082283323329330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 361
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b578bea1f97d794e804ea48febeeb6f
+      internalID: 610819371093588516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 361
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb004fddca5844287aa8b6fd8c13c8
+      internalID: 4504437618199068151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 361
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d2bea11a700344399f6ac6a9f027b2
+      internalID: -7077211234725866227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 361
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cda21d2cce24542bd8abcc0b8e77e2
+      internalID: 1450346740283647264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 360
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5aa1ed28f691f4fb70a327ae719667
+      internalID: 4495031133649952365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 362
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffbc73771de11f4282e2c6473020cb2
+      internalID: -4386776291444001943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 361
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69bb9890430cdc4a96b21fffe5bcf58
+      internalID: 3113235896265893157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 362
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1827a7018debcaa40a0275e2a43a1f6d
+      internalID: 1861309072853506153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 304
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5fdf0841296094a80f610cef77d1b0
+      internalID: -1230246412755387898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 304
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eee8510182ff546b6cc02fe2d958de
+      internalID: 4374236832504112299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 307
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb01ef94c4d55e48887c3c79c1b7886
+      internalID: 504928214065637958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 307
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f299a7f14e7df4e9afd24429fef7f2
+      internalID: -2872577753632364030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 304
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f89b480f2e552f47b99d2a6bbef9b62
+      internalID: -4252391216888051750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 316
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e14116daae8e7149b95fd4d0ddc07be
+      internalID: -940037904094889415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 321
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5184843c8c9e6e043a120b543c3b986e
+      internalID: -9052241612557285905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 305
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f768d12df1a7e7459a62960077b5953
+      internalID: 4543284934581797748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82762d22d8303e46a028c555241006a
+      internalID: -7328582109847266621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84115f48ee20d643bd4f0101cf53aa1
+      internalID: -1558297258064747633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215cb5a32c53914597113b2b48de9c5
+      internalID: 514170982631175379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5544fb9221275e4e8351ee8014d3732
+      internalID: -4553703450846305970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4a5e91839db94fb97e67fe6e5b676
+      internalID: 8952857193608713828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0582de7417fe4fa125acf65d7eae9
+      internalID: 2604108433935569230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e63b8be4dfb55d4c9092b1190511f73
+      internalID: 4404599614670360977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 250
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c29c8ded133f46b79d88173a12b51
+      internalID: 7655896094854319453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 254
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae8a59f88f18040a91b23cfe73f6c0
+      internalID: -7509075319101255291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 254
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb32912f755fb4cafa75113e0733ab
+      internalID: -969697537769423184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 254
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0f8cf96a0325468abf8d6ba42ea6f
+      internalID: 2120034186647039201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 254
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557bf6b5e41214e4486888b9ac3b66dc
+      internalID: 5138298769499567229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933a019610b7da449697c5394b4f873
+      internalID: -7060291871289762926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c4486a44774143920f49c2a1df7e6
+      internalID: 4591295941962970279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 189
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89c18da3a9c4cf4f93d293f71a8a9f9
+      internalID: -2226089865481352080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 190
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9310907f177894baeb56b5b8205bdb
+      internalID: 1851348542643505034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 190
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc631429ab635d4891de0f01dd94185
+      internalID: -8579850760332185963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 190
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fda3438b517254f90731ddb263b73f
+      internalID: -7700979996508567286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 190
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b607f1d9d6ec74ea59ac5808c75e29
+      internalID: 960713803510304839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4292793b46fa7a438f2ae7664c5716b
+      internalID: -7447649266665257202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9cea672ffd4174db956fa66473bf8c
+      internalID: 4765153854776773723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 192
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701cc8fab97d70479810f65973d24e3
+      internalID: -3333033017336648389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 193
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa882a6fed39467468ff2218e136f0df
+      internalID: 4007465795179293529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 184
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0a6559ee5fbe4c80a329aceed35fa
+      internalID: 8370276686439319551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 193
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fcaa88efa356b438bb7a33f330313f
+      internalID: -4143272988891405989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d467402ef1fa499ec9a6315c4befd
+      internalID: 4636715127080768845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 134
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a316b482b55f714e9aff88949bf69ec
+      internalID: 4988194771629217048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07593d627f3c7f84a97f8041896c2717
+      internalID: 7255171724058156650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 133
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6248a2621aeba4e993c3a012a405a8
+      internalID: 6895591920055538672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 136
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c53c34f70d2df4aaea42431a52c574
+      internalID: 8146328082955526877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 138
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac50bf2152de8b4a885fb080b1b39e3
+      internalID: -4916020941096629654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 131
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b1770cfc80099459511030cead59b9
+      internalID: 1324417669724256071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 99
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69bc6c9742ed714da0236aa1ef252cd
+      internalID: -4239744467484829800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 94
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e0ff7b3d0f2334289fdbf49058ef08
+      internalID: 7821309279136587980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1963917a2af5448b3ac75fb987ff7
+      internalID: 5419028277844803529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 86
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23716863a2d3384439a5f0dfacf8f112
+      internalID: -3030654382760305199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 89
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25f59d2ba15c543864534ba3fcd1a5
+      internalID: 7210056417045780569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 89
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580edd01e6fbead4ab2037aea2e9dd3d
+      internalID: 1556863878407283304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 89
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ea489d7807e745b9a6e46a2bfdfae
+      internalID: 3380062932898570513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 89
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf33899c9eab2e409a3a9849c3b60eb
+      internalID: -5470438671697399082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 47
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ffa2d92250c943b53afeb1ddf0515
+      internalID: 3410984914621870326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 47
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d978311fa7b5304992d6f7b53a81fb3
+      internalID: -6447829122727603552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c17f459d97d4408f91bb9f20757bb
+      internalID: 5555155030053578319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a10968a19dbaf42a950dc5d7dd3bae
+      internalID: -5770524589562387143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579cfed75920ec8448c9c4b06cce8d92
+      internalID: 1118939106159621110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb5657033c831242a000a8b5871f96d
+      internalID: -1878964268744704567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 47
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35009902afb08d64dae62cda6eadfa6b
+      internalID: -6605517866231437590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61183d0b10c0be24eb78fb63d7cb1621
+      internalID: 4668332996002418895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9fcb139aca104ab777015486c776f
+      internalID: -3438709192565215384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6708dc6951745d14d9143136d766bf37
+      internalID: 444040650902895605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 50
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb8577622f2bc458598115e34a53e8
+      internalID: -429055211115253743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb4fbb3f6ebea429921d6552a7c3d0
+      internalID: 4412647285717568061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af566a664df56408a8bf4c4ab62f50
+      internalID: 9102327334473900178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989cf43a8657f2449b210b1779461a47
+      internalID: 4612189282863361387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40fb9d065e500b479687380549a35a7
+      internalID: 6034474023743311666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5316258c9e524d806d1d6164cbc0d
+      internalID: -585412866587066005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
